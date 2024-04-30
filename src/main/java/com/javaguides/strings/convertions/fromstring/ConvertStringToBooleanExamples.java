@@ -6,6 +6,9 @@ package com.javaguides.strings.convertions.fromstring;
  *
  */
 public class ConvertStringToBooleanExamples {
+	private ConvertStringToBooleanExamples() {
+	}
+	
 	public static void main(String[] args) {
 		// Convert using Long.parseLong()
 		String numberAsString = "true";

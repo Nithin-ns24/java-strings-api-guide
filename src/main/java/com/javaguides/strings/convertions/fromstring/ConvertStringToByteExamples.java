@@ -9,6 +9,9 @@ import java.text.ParseException;
  *
  */
 public class ConvertStringToByteExamples {
+	private ConvertStringToByteExamples() {
+	}
+	
 	public static void main(String[] args) {
 		// Convert using IByte.parseByte
 		String numberAsString = "100";

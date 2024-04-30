@@ -9,6 +9,9 @@ import java.text.ParseException;
  *
  */
 public class ConvertStringToIntegerExamples {
+	private ConvertStringToIntegerExamples() {
+	}
+	
 	public static void main(String[] args) {
 		// Convert using Integer.parseInt()
 		String str = "1234";

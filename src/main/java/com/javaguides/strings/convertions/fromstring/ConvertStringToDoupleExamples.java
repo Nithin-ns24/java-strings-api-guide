@@ -9,6 +9,9 @@ import java.text.ParseException;
  *
  */
 public class ConvertStringToDoupleExamples {
+	private ConvertStringToDoupleExamples() {
+	}
+	
 	public static void main(String[] args) {
 		// Convert using Double.parseDouble()
 		String str = "153.25";

@@ -9,6 +9,9 @@ import java.text.ParseException;
  *
  */
 public class ConvertStringToFloatExamples {
+	private ConvertStringToFloatExamples() {
+	}
+	
 	public static void main(String[] args) {
 		// Convert using Float.parseFloat()
 		String numberAsString = "153.25f";
